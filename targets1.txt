@@ -1,0 +1,9 @@
+apple
+fig
+mango
+cherry
+watermelon
+grape
+date
+tangerine
+pear
